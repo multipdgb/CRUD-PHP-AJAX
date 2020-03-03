@@ -1,0 +1,44 @@
+{
+  "name": "personalblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multipdgb/CRUD-PHP-AJAX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/multipdgb/Personal-Blog/issues"
+  },
+  "homepage": "https://github.com/multipdgb/Personal-Blog#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "babel-runtime": "^6.26.0",
+    "browser-sync": "^2.26.7",
+    "gulp-babel": "^8.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/register": "^7.8.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-browsersync-inject": "^1.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": [
+    "last 3 versions",
+    "not dead"
+  ]
+}
